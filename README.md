@@ -23,10 +23,12 @@
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="about"></a>
-## 〔 01 〕 ABOUT ME
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/01-about.svg" width="100%" alt="About Me"/>
+</div>
 
 <table>
 <tr>
@@ -91,10 +93,12 @@ public class Gunasekaran {
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="stats"></a>
-## 〔 02 〕 STATS OVERVIEW
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/02-stats.svg" width="100%" alt="Stats Overview"/>
+</div>
 
 <div align="center">
 
@@ -123,10 +127,12 @@ public class Gunasekaran {
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="what-i-do"></a>
-## 〔 03 〕 WHAT I DO
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/03-what-i-do.svg" width="100%" alt="What I Do"/>
+</div>
 
 <div align="center">
 
@@ -151,10 +157,12 @@ public class Gunasekaran {
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="tech"></a>
-## 〔 04 〕 TECH ARSENAL
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/04-tech.svg" width="100%" alt="Tech Arsenal"/>
+</div>
 
 <div align="center">
 
@@ -190,10 +198,12 @@ public class Gunasekaran {
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="experience"></a>
-## 〔 05 〕 HANDS-ON EXPERIENCE
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/05-experience.svg" width="100%" alt="Hands-on Experience"/>
+</div>
 
 <div align="center">
 
@@ -234,10 +244,12 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 
 <div align="center"><a href="#top">⬆ back to top</a></div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="projects"></a>
-## 〔 06 〕 FEATURED PROJECTS
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/06-projects.svg" width="100%" alt="Featured Projects"/>
+</div>
 
 <table>
 <tr>
@@ -274,10 +286,12 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 
 <div align="center"><a href="#top">⬆ back to top</a></div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="achievements"></a>
-## 〔 07 〕 ACHIEVEMENTS
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/07-achievements.svg" width="100%" alt="Achievements"/>
+</div>
 
 <div align="center">
 
@@ -292,10 +306,12 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="certifications"></a>
-## 〔 08 〕 CERTIFICATIONS
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/08-certifications.svg" width="100%" alt="Certifications"/>
+</div>
 
 <div align="center">
 
@@ -347,10 +363,12 @@ IIT Kanpur · Feb–Apr 2024 · 2 or 3 credits
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="education"></a>
-## 〔 09 〕 EDUCATION
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/09-education.svg" width="100%" alt="Education"/>
+</div>
 
 <table>
 <tr>
@@ -379,10 +397,12 @@ Sri Krishna College of Engineering & Technology
 
 <div align="center"><a href="#top">⬆ back to top</a></div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="activity"></a>
-## 〔 10 〕 ACTIVITY
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/10-activity.svg" width="100%" alt="Activity"/>
+</div>
 
 <div align="center">
 
@@ -404,10 +424,12 @@ Sri Krishna College of Engineering & Technology
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
 
 <a id="connect"></a>
-## 〔 11 〕 LET'S CONNECT
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/11-connect.svg" width="100%" alt="Let's Connect"/>
+</div>
 
 <div align="center">
 
@@ -433,7 +455,7 @@ Sri Krishna College of Engineering & Technology
 
 `< coded with ❤️ by Gunasekaran C />`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=130&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/12-footer.svg" width="100%" alt="Thanks for visiting"/>
 
 <a href="#top">⬆ back to top</a>
 
