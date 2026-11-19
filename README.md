@@ -299,6 +299,7 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 ---
 
 <a id="certifications"></a>
+<a id="certifications"></a>
 ## 〔 08 〕 CERTIFICATIONS
 
 <div align="center">
@@ -311,13 +312,12 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 
 ### 🥈 Logistics & Supply Chain Management · ELITE + SILVER
 
-<a href="certificates/nptel-logistics-supply-chain.jpg">
-  <img src="certificates/nptel-logistics-supply-chain.jpg" width="80%" alt="NPTEL Logistics and Supply Chain Management certificate"/>
-</a>
+**Score 78%** · Assignments 25/25 · Proctored Exam 52.5/75
+IIT Kharagpur · Jul–Oct 2026 · 12 weeks · 4 credits
 
-<sub>Score **78%** · Assignments 25/25 · Proctored Exam 52.5/75 · IIT Kharagpur · Jul–Oct 2026 · 12 weeks · 4 credits</sub>
+[![View Certificate](https://img.shields.io/badge/📄_VIEW_CERTIFICATE-LOGISTICS_%26_SUPPLY_CHAIN-ff6b35?style=for-the-badge&labelColor=0d1117)](https://github.com/Gunasekaran-12/gunasekaran-12/blob/main/Logistics%20%26%20Supply%20Chain%20Management.pdf)
 
-<br/><br/>
+<br/>
 
 <table>
 <tr>
@@ -325,22 +325,20 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 
 ### 🛡️ Industrial Safety Engineering
 
-<a href="certificates/nptel-industrial-safety.jpg">
-  <img src="certificates/nptel-industrial-safety.jpg" width="100%" alt="NPTEL Industrial Safety Engineering certificate"/>
-</a>
+**Score 52%** · Assignments 21.81/25 · Exam 30/75
+IIT Kharagpur · Jul–Oct 2026 · 4 credits
 
-<sub>Score **52%** · Assignments 21.81/25 · Exam 30/75<br/>IIT Kharagpur · Jul–Oct 2026 · 4 credits</sub>
+[![View Certificate](https://img.shields.io/badge/📄_VIEW_CERTIFICATE-INDUSTRIAL_SAFETY-0A66C2?style=for-the-badge&labelColor=0d1117)](https://github.com/Gunasekaran-12/gunasekaran-12/blob/main/Industrial%20Safety%20Engineering.pdf)
 
 </td>
 <td align="center" width="50%" valign="top">
 
 ### 🗣️ Enhancing Soft Skills and Personality
 
-<a href="certificates/nptel-soft-skills.jpg">
-  <img src="certificates/nptel-soft-skills.jpg" width="100%" alt="NPTEL Enhancing Soft Skills and Personality certificate"/>
-</a>
+**Score 53%** · Assignments 22.54/25 · Exam 30/75
+IIT Kanpur · Feb–Apr 2024 · 2 or 3 credits
 
-<sub>Score **53%** · Assignments 22.54/25 · Exam 30/75<br/>IIT Kanpur · Feb–Apr 2024 · 2 or 3 credits</sub>
+[![View Certificate](https://img.shields.io/badge/📄_VIEW_CERTIFICATE-SOFT_SKILLS-8a2be2?style=for-the-badge&labelColor=0d1117)](https://github.com/Gunasekaran-12/gunasekaran-12/blob/main/Enhancing%20Soft%20Skills%20and%20Personality.pdf)
 
 </td>
 </tr>
@@ -355,8 +353,6 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 </div>
 
 ---
-
-<a id="education"></a>
 ## 〔 09 〕 EDUCATION
 
 <table>
