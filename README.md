@@ -21,9 +21,17 @@
 
 [**About**](#about) · [**Stats**](#stats) · [**What I Do**](#what-i-do) · [**Tech**](#tech) · [**Experience**](#experience) · [**Projects**](#projects) · [**Achievements**](#achievements) · [**Certifications**](#certifications) · [**Education**](#education) · [**Activity**](#activity) · [**Connect**](#connect)
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Open+to+Internships+%26+Full-Time+Roles" alt="Typing animation"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/dots-bg.svg" width="100%" alt=""/>
+
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="about"></a>
 <div align="center">
@@ -93,7 +101,7 @@ public class Gunasekaran {
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="stats"></a>
 <div align="center">
@@ -108,16 +116,16 @@ public class Gunasekaran {
 ![Projects](https://img.shields.io/badge/🚀_PROJECTS-2+-ff6b35?style=for-the-badge&labelColor=0d1117)
 ![Certs](https://img.shields.io/badge/📜_NPTEL_CERTS-3-8a2be2?style=for-the-badge&labelColor=0d1117)
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/dots-slim.svg" width="100%" alt=""/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gunasekaran-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunasekaran-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top languages" />
 
-<br/>
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/dots-slim.svg" width="100%" alt=""/>
 
 <img src="https://streak-stats.demolab.com?user=gunasekaran-12&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" alt="Streak stats" />
 
-<br/>
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/dots-slim.svg" width="100%" alt=""/>
 
 <img src="https://leetcard.jacoblin.cool/Guna1254?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="85%"/>
 
@@ -127,7 +135,7 @@ public class Gunasekaran {
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="what-i-do"></a>
 <div align="center">
@@ -138,7 +146,7 @@ public class Gunasekaran {
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="460" alt="Coding on a retro computer"/>
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/dots-slim.svg" width="100%" alt=""/>
 
 <table>
 <tr>
@@ -157,7 +165,7 @@ public class Gunasekaran {
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="tech"></a>
 <div align="center">
@@ -198,7 +206,7 @@ public class Gunasekaran {
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="experience"></a>
 <div align="center">
@@ -244,7 +252,7 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 
 <div align="center"><a href="#top">⬆ back to top</a></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="projects"></a>
 <div align="center">
@@ -286,7 +294,7 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 
 <div align="center"><a href="#top">⬆ back to top</a></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="achievements"></a>
 <div align="center">
@@ -306,7 +314,7 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="certifications"></a>
 <div align="center">
@@ -363,7 +371,7 @@ IIT Kanpur · Feb–Apr 2024 · 2 or 3 credits
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="education"></a>
 <div align="center">
@@ -397,7 +405,7 @@ Sri Krishna College of Engineering & Technology
 
 <div align="center"><a href="#top">⬆ back to top</a></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="activity"></a>
 <div align="center">
@@ -414,7 +422,7 @@ Sri Krishna College of Engineering & Technology
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/dots-slim.svg" width="100%" alt=""/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunasekaran-12&bg_color=0d1117&color=00d4ff&line=302b63&point=ff6b35&area=true&area_color=00d4ff&hide_border=true&title_color=00d4ff" width="95%" alt="Contribution graph"/>
 
@@ -424,7 +432,7 @@ Sri Krishna College of Engineering & Technology
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/divider-animated.svg" width="100%" alt=""/></div>
 
 <a id="connect"></a>
 <div align="center">
@@ -449,11 +457,11 @@ Sri Krishna College of Engineering & Technology
 
 <br/>
 
-*"First, solve the problem. Then, write the code."* 💻
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/quote-card.svg" width="100%" alt="First, solve the problem. Then, write the code."/>
 
-⭐ *Star my repos if you find them useful! Let's build something amazing together* 🚀
+<br/>
 
-`< coded with ❤️ by Gunasekaran C />`
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/dots-bg.svg" width="100%" alt=""/>
 
 <img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/12-footer.svg" width="100%" alt="Thanks for visiting"/>
 
