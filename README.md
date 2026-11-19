@@ -1,12 +1,8 @@
 <a id="top"></a>
 
-<h1 align="center">Hi there 👋</h1>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00d4ff&height=270&section=header&text=GUNASEKARAN%20C&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver%20%E2%9A%A1&descAlignY=60&descSize=18" width="100%" alt="Gunasekaran C"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=720&height=45&lines=%3E+Building+AI-powered+full-stack+apps+%F0%9F%9A%80;%3E+Java+%2B+Spring+Boot+%7C+React+%7C+FastAPI;%3E+400%2B+LeetCode+problems+solved+%F0%9F%A7%A0;%3E+3x+NPTEL+certified+%F0%9F%8E%93;%3E+Turning+ideas+into+working+software+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/name-banner.svg" width="100%" alt="Gunasekaran C - Full-Stack Developer, AI Enthusiast, Problem Solver"/>
 
 <br/>
 
@@ -134,7 +130,7 @@ public class Gunasekaran {
 
 <div align="center">
 
-<img src="assets/computer-working.gif" width="460" alt="Coding on a retro computer"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="460" alt="Coding on a retro computer"/>
 
 <br/><br/>
 
@@ -299,7 +295,6 @@ Automates screening, scheduling and candidate evaluation, so recruiters get clea
 ---
 
 <a id="certifications"></a>
-<a id="certifications"></a>
 ## 〔 08 〕 CERTIFICATIONS
 
 <div align="center">
@@ -353,6 +348,8 @@ IIT Kanpur · Feb–Apr 2024 · 2 or 3 credits
 </div>
 
 ---
+
+<a id="education"></a>
 ## 〔 09 〕 EDUCATION
 
 <table>
