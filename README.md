@@ -1,4 +1,3 @@
-<a id="top"></a>
 
 <div align="center">
 
@@ -466,5 +465,12 @@ Sri Krishna College of Engineering & Technology
 <img src="https://raw.githubusercontent.com/Gunasekaran-12/gunasekaran-12/main/sections/12-footer.svg" width="100%" alt="Thanks for visiting"/>
 
 <a href="#top">⬆ back to top</a>
+
+</div>
+
+
+
+<br/>
+<sub>🎨 Design & code by <b>Gunasekaran C</b> · © 2026 · Please don't copy without credit</sub>
 
 </div>
